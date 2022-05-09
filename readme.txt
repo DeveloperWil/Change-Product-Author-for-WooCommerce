@@ -3,8 +3,8 @@ Contributors: DeveloperWil
 Tags: WooCommerce,Change Product Author,Product Author
 Requires at least: 5.6
 Requires PHP: 5.6
-Tested up to: 5.9
-Stable tag: 1.0.0
+Tested up to: 6.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -22,7 +22,7 @@ The WooCommerce author will now show up in the products view, the edit product a
 
 You need to change the author or a WooCommerce product.
 
-Perhaps you a developer who has imported the clients products before launch and you need to switch all the products over to the clients user login.
+Perhaps you're a developer who has imported the clients products before launch, and you need to switch all the products over to the clients' user login.
 
 = Plugin Page =
 [Change Product Author for WooCommerce](https://zeropointdevelopment.com/wordpress-plugins/wc-change-product-author/ "Change Product Author For WooCommerce WordPress Plugin")
@@ -52,6 +52,9 @@ Check that you have two or more users with Author or above roles.
 3. Quick edit products to change multiple product authors
 
 == Changelog ==
+= 1.0.1 =
+* Tested with WordPress 6.0 and WooCommerce 6.4.1
+* Fixed spelling & grammar mistakes in description
 
 = 1.0 =
 * Initial release.
