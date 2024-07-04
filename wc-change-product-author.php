@@ -3,7 +3,7 @@
  * Plugin Name: Change Product Author for WooCommerce
  * Plugin URI: https://zeropointdevelopment.com/
  * Description: Quickly change or transfer your WooCommerce product author to another users in the WordPress website.
- * Version: 1.0.2
+ * Version: 1.0.3
  * Author: Wil Brown @DeveloperWil
  * Author URI: https://profiles.wordpress.org/developerwil
  * License: GNU/GPL V2 or Later

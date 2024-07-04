@@ -4,6 +4,8 @@ Tags: WooCommerce,Change Product Author,Product Author
 Requires at least: 5.6
 Requires PHP: 5.6
 Requires Plugins: woocommerce
+WC requires at least: 7.0
+WC tested up to: 9.0.2
 Tested up to: 6.6
 Stable tag: 1.0.2
 License: GPLv2 or later
@@ -53,6 +55,9 @@ Check that you have two or more users with Author or above roles.
 3. Quick edit products to change multiple product authors
 
 == Changelog ==
+= 1.0.3 =
+* Added "WC requires at least" and "WC tested up to" plugin headers
+
 = 1.0.2 =
 * Tested with WordPress 6.6 and WooCommerce 9.0.2
 * Added plugin dependency: woocommerce
