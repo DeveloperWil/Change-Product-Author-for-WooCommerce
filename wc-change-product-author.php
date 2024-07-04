@@ -5,7 +5,7 @@
  * Description: Quickly change or transfer your WooCommerce product author to another users in the WordPress website.
  * Version: 1.0.3
  * Requires Plugins: woocommerce
- * WC requires at least: 7.0
+ * WC requires at least: 8.5
  * WC tested up to: 9.0.2
  * Author: Wil Brown @DeveloperWil
  * Author URI: https://profiles.wordpress.org/developerwil
